@@ -1,6 +1,6 @@
 {
 	"name": "shakeepers/page-contributors",
-	"description": "Fork of PageContributors extension for MediaWiki",
+	"description": "Fork of Paypal extension for MediaWiki",
 	"license": "GPL-2.0",
 	"type": "mediawiki-extension"
 }
